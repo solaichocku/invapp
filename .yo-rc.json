@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "invapp",
+    "packageName": "com.mycompany.invapp",
+    "packageFolder": "com/mycompany/invapp",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "N2VjZGMzMDMzMTU1M2Q0ODIwMTgwZWViNmUwYTMxNDc4ODQ4YWM3MjViMWVhMGI4MzkyYzk4ODJlMDhiMTU4NjJlMzZkMmRjMDE0NzEwYjQ4YmUyNTc5ZDg4NDc3Y2IzNjY1NmVjODRhMzg2ZjkxOGRjYjlhODQ5ZTc3M2Y4YWM=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "solaichocku",
+  "repository-name": "invapp"
+}
